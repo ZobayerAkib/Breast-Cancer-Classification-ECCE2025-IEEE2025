@@ -51,9 +51,16 @@ We leveraged **LIME** and **Faster ScoreCAM** to visualize which regions of the 
 
 - ✅ Improves transparency and clinical trust.
 - 🎯 Highlights critical regions contributing to the classification.
+> 🌐 Transparency = Trust.
+
+![Faster Score-CAM](https://raw.githubusercontent.com/ZobayerAkib/https://github.com/ZobayerAkib/Breast-Cancer-Classification-ECCE2025-IEEE2025/main/v2mFaster.png)
+![lime-example](https://raw.githubusercontent.com/ZobayerAkib/https://github.com/ZobayerAkib/Breast-Cancer-Classification-ECCE2025-IEEE2025/main/v2sLime.png)
+---
+## 🖼️ Sample Output
+
+![Model Prediction Output](./main/output.png)
 
 ---
-
 ```bibtex
 @INPROCEEDINGS{11012958,
   author={Kabir, Md. Zobayer Ibna},
